@@ -35,3 +35,7 @@ button {
 button:hover {
     opacity: 0.8;
 }
+
+.container .link {
+    color:white;
+}
